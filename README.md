@@ -1,2 +1,2 @@
-# programming-zen
+# Programming-Zen
 Nuggets of info &amp; wisdom in Programming...
