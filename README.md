@@ -7,3 +7,12 @@ Nuggets of info &amp; wisdom in Programming...
 + Robert (Bob) Sedgewick
 + Harold Abeslon
 + Gerald J Sussman
++ Jon Bentley
++ Nicklaus Wirth
++ Paul Hudak
++ John Hughes
++ Richard Bird
++ Philip Wadler
++ Graham Hutton
++ Eric Meijer
+
